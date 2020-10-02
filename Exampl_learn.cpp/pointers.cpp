@@ -3,7 +3,7 @@
 
 int main(int argc, char **argv){
     int v{ 5 };
-    int  k=7;
+    int k{ 7 };
 
     int *ptr{&v};
     int *ptr1{&k};
