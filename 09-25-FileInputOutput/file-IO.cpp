@@ -20,7 +20,7 @@ int main(int argc, char **argv)
     int nmax = 1000;
     double x0 = 10;
 
-    // read params from filed
+    // read params from file
     std::ifstream fin("params.txt");
     std::string tmp;
     fin >> xl >> tmp;
