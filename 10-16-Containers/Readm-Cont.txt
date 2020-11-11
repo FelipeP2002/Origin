@@ -1,0 +1,17 @@
+
+
+Clasificacion de los contenedores
+
+-DEQUE:similares al vector no hace resize cuando se hacen modificaciones
+
+-LISTAS:una lista no es continua en memoria, cada dato esta ligado al siguiente.
+
+            Se puede agregar cosas en cualquier ubicacion.Pero no es eficiciente
+            si tienen que hacer caclculos simples y masivos(promedio).
+
+            Despues de clararse no necesariamente tiene el orden de declaracion.
+            
+
+-STACK: tipo LIFO/last input first output.
+
+-QUEUE: tipo FIFO/ first input first output. 
